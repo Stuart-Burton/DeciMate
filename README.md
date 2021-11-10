@@ -17,3 +17,5 @@ http://<address-of-pi>/set/<serial-number>/<parameter>/<parameter-value>
 Example: http://192.168.1.1/set/CPC10934/SO_Source/1  # Set SDI output to HDMI input
 
 This has been tested with Companion 2.1.3 and a single Decimator Design MD-CROSS V2
+
+  
