@@ -4,7 +4,7 @@ I will not be held responsible for any bricking of Decimators or any other failu
 This python script for raspberry pi makes use of the python module at https://github.com/quentinmit/decimctl
 It provides a very basic HTTP server which makes use of HTTP GET requests to control Decimator Design products.
 
-Installation is a matter of installing the DeciServe.py script and the decimctl module folder to the same folder
+Installation is a matter of installing the DeciServe.py script and the decimctl module folder to the same folder.
 Run DeciServ.py as sudo to provide access to USB
 
 Commands are issued in the following ways:
