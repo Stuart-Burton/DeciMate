@@ -2,8 +2,6 @@
 
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import logging
-import random
-import time
 import decimctl
 
 log_raw_data = False
