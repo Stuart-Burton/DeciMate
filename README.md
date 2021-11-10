@@ -1,4 +1,4 @@
-# DeciMate
+# DeciMate for Raspberry Pi
 <p>Please note this is experimental code with little to no error checking used at your own risk.</p>
 <p>I will not be held responsible for any bricking of Decimators or any other failure as a result of using this code.</p>
 <p>This python script for raspberry pi makes use of the python module at https://github.com/quentinmit/decimctl</p>
