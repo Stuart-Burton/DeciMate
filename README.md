@@ -14,6 +14,7 @@
 <p>http://address-of-pi/status/serial-number  # lists status of Decimator serial-number</p>
 <p>Example: http://192.168.1.1/status/CPC10934</p>
 
+<p>Use Companion generic HTTP GET to issue commands</P>
 <p>http://address-of-pi/set/serial-number/parameter/parameter-value</p>
 <p>Example: http://192.168.1.1/set/CPC10934/SO_Source/1  # Set SDI output of CPC10934 to HDMI input</p>
 
