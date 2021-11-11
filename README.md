@@ -8,15 +8,15 @@
 <p>Run DeciServe.py as sudo to provide access to USB</p>
 
 <p>Commands are issued in the following ways:</p>
-<p>http://address-of-pi/list  # lists Decimator products connected to USB</p>
-<p>Example: http://192.168.1.1/list</p>
+<p>http://address-of-pi:8080/list  # lists Decimator products connected to USB</p>
+<p>Example: http://192.168.1.1:8080/list</p>
 
-<p>http://address-of-pi/status/serial-number  # lists status of Decimator serial-number</p>
-<p>Example: http://192.168.1.1/status/CPC10934</p>
+<p>http://address-of-pi:8080/status/serial-number  # lists status of Decimator serial-number</p>
+<p>Example: http://192.168.1.1:8080/status/CPC10934</p>
 
 <p>Use Companion generic HTTP GET to issue commands</P>
-<p>http://address-of-pi/set/serial-number/parameter/parameter-value</p>
-<p>Example: http://192.168.1.1/set/CPC10934/SO_Source/1  # Set SDI output of CPC10934 to HDMI input</p>
+<p>http://address-of-pi:8080/set/serial-number/parameter/parameter-value</p>
+<p>Example: http://192.168.1.1:8080/set/CPC10934/SO_Source/1  # Set SDI output of CPC10934 to HDMI input</p>
 
 <p>This has been tested with Companion 2.1.3 and a single Decimator Design MD-CROSS V2</p>
 
