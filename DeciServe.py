@@ -6,6 +6,7 @@ import decimctl
 
 log_raw_data = False
 
+
 def device_list():
     devices = decimctl.list_devices()
     device_text = ""
