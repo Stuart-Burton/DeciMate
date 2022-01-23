@@ -29,6 +29,7 @@ def device_status(serial):
 
 def device_param_set(deci_serial, deci_param, deci_param_var):
     device = decimctl.Device(log_raw_data, deci_serial)
+    device.open()
     setattr(device.registers, deci_param, int(deci_param_var))
     stat_text = ("Decimator %s %s set to %s\n"% (deci_serial, deci_param, deci_param_var))
     device.close()
