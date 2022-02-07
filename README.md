@@ -18,6 +18,6 @@
 <p>http://address-of-pi:8080/set/serial-number/parameter/parameter-value</p>
 <p>Example: http://192.168.1.1:8080/set/CPC10934/SO_Source/1  # Set SDI output of CPC10934 to HDMI input</p>
 
-<p>This has been tested with Companion 2.1.3 and a single Decimator Design MD-CROSS V2</p>
+<p>This has been tested with Companion 2.1.3, 2.2.0 and four Decimator Design MD-CROSS V2</p>
 
   
