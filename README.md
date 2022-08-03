@@ -20,4 +20,5 @@
 
 <p>This has been tested with Companion 2.1.3, 2.2.0 and four Decimator Design MD-CROSS V2</p>
 
-  
+<p>Update: A Raspberry Pi image with DeciMate running is available here:</p>
+<p>https://drive.google.com/file/d/1tfq1l4AkkzEOqmPfLrSm2UpKXd576vdu/view?usp=sharing</p>
